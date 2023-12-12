@@ -1,2 +1,1 @@
-# odin-recipes
- my first project!
+¡Hola! Este es un proyecto de recetas que he creado como parte de mi aprendizaje en The Odin Project. Es una pequeña aventura en la que he utilizado HTML para construir un sitio web que se centra en compartir mis las recetas cubanas más conocidas.¡Espero que disfrutes explorando las recetas y que encuentres algo que te guste! Si tienes alguna pregunta o comentario, no dudes en dejar un mensaje a mi correo soljicharon@gmail.com
